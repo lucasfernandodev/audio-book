@@ -5,13 +5,13 @@ Projeto desenvolvido seguindo a <a target="_blank" href="https://www.youtube.com
 do intensivão de JavaScript.
 </p>
 
-## � Projeto
+## 🌟 Projeto
 Este é um aplicativo simples que faz uso do JavaScript para criar um player para audiolivros.
 
-## � Tecnologias
+## 👾 Tecnologias
  - HTML5
  - JAVASCRIPT
  - CSS3
 
-� Visualizar projeto
-Teste e veja como ficou o aplicativo, <a href="#">clicando aqui</a>.
+🏃 Visualizar projeto
+Teste e veja como ficou o aplicativo, <a target="_blank" href="https://play-audio-book.netlify.app/">clicando aqui</a>.
